@@ -361,6 +361,7 @@ class sv_model:
 		pass 
 
 	def connectivity(self): # WAITING
+		pass
 
 
 	def write1D_files(self): #BUILDING
